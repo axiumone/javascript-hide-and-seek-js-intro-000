@@ -17,11 +17,11 @@ function increaseRankBy(n) {
   let start = 1
 
   for (let i = 0, l = children.length; i < l; i++) {
-    parseInt(children[i].innerHTML)
+    return parseInt(children[i].innerHTML);
   }
 
     for (let i = 0, l = children.length; i < l; i++) {
-      parseInt(children[i].innerHTML)
+      return parseInt(children[i].innerHTML);
     }
 }
 
