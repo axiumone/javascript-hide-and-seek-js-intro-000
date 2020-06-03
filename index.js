@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-   document.getElementsByTagName('div')[0]
+   return document.getElementsByTagName('div')[0]
 }
 
 
