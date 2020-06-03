@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  return document.querySelector("head");
+  return document.querySelector("nested");
 }
 
 
