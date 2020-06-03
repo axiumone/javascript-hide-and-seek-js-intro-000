@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  return document.querySelectorAll();
+  return document.querySelector("head");
 }
 
 
